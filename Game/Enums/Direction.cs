@@ -2,10 +2,10 @@ namespace CastleGrimtol.Enums
 {
   public enum Direction
   {
-    None,
+    // None,
     North,
-    East = 1,
-    South = 2,
-    West = 3
+    East,
+    South,
+    West
   }
 }
